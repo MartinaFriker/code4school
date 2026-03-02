@@ -13,12 +13,4 @@ link:
   url: https://xlogo.inf.ethz.ch/release/latest/
   desc: xlogo.inf.ethz.ch
 materials:
-  - url: https://abz.inf.ethz.ch/wp-content/uploads/logo_heft_de.pdf
-    desc: Programmieren mit Logo (ABZ ETH Zürich)
-  - url: https://abz.inf.ethz.ch/wp-content/uploads/Programmieren-mit-LOGO-Konzept-der-Variablen_de.pdf
-    desc: Programmieren mit Logo, Sekundarstufe 1 (ABZ ETH Zürich)
-  - url: https://abz.inf.ethz.ch/wp-content/uploads/logo_heft_2_de-1.pdf
-    desc: Programmieren mit Logo für Fortgeschrittene (ABZ ETH Zürich)
-  - url: https://abz.inf.ethz.ch/wp-content/uploads/logo_projekte.pdf
-    desc: Programmieren mit Logo, Projekte (ABZ ETH Zürich)
 image_name: x-logo.png
