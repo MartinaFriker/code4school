@@ -16,7 +16,7 @@ materials:
     desc: Aufgabensammlung PH Bern
   - url: assets/materials/beebot_bluebot/Sammelmappe-Blue-Bot-Pro-Bot.pdf
     desc: Sammelmappe Bluebot/ Beebot (PH St Gallen)
-  - url: https://www.minibiber.ch/images/book/Bee-Boot_Book_DE.pdf
+  - url: assets/materials/beebot_bluebot/Bee-Boot_Book_DE.pdf
     desc: Bee-Bot-Book deutsche Übersetzung 
   - url: assets/materials/beebot_bluebot/Bluebot_einfache_Aufgaben.pdf
     desc: Bluebot einfache Aufgaben von M.Friker

@@ -16,7 +16,7 @@ link:
   url: https://calliope.cc/
   desc: calliope.cc
 materials:
-  - url: https://calliope.cc/schulen/schulmaterial
+  - url: https://calliope.cc/schulen/unterrichtsmaterial
     desc: Unterrichtsmaterial-Sammlung von Calliope
   - url: https://calliope.cc/projekte
     desc: Beispiele von Calliope
@@ -24,7 +24,7 @@ materials:
     desc: Calliope-Skill-Cards von der PH Zürich und creative coding
   - url: assets/materials/calliope/calliope_challenge_cards.pdf
     desc: Calliope-Challenge-Cards von der PH Zürich 
-  - url: https://www.moodletreff.de/pluginfile.php/21576/mod_resource/content/1/Calliope-Schu%CC%88lerheft-Cornelsen.pdf
+  - url: assets/materials/calliope/Coden mit dem Calliope mini.pdf
     desc: Coden mit dem Calliope mini (Schülerheft von M. Abend, K. Gramowski, L. Pelz, B. Poloczek)
   - url: https://appcamps.de/unterrichtsmaterial/calliope-mini/
     desc: Unterrichtsmaterial von appcamps.de
@@ -36,4 +36,6 @@ materials:
     desc: Calliope 3 Aufgabenset/ Einführung (PH St. Gallen)   
   - url: https://tueftelakademie.de/tueftelideen/
     desc: Unterrichtsmaterial von der Tüftelakademie (-> Werkzeuge -> Calliope Mini)
+  - url: assets/materials/calliope/Calliope_Arbeitsheft_1_Druck.pdf
+    desc: Calliope Arbeitsheft von F.Futterlieb, A.Pascotto, J.Alraun
 image_name: calliope.jpg

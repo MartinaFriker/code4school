@@ -11,7 +11,7 @@ link:
   url: https://education.lego.com/de-de/products/lego-education-spike-prime-set/45678
   desc: education.lego.spike
 materials:
-  - url: https://education.lego.com/de-de/lessonsfilter?Products=LEGO%c2%ae%c2%a0Education+SPIKE%e2%84%a2%c2%a0Prime-Set
+  - url: https://education.lego.com/de-de/lessons/
     desc: Unterrichtspläne von Lego
 
 image_name: lego_spike.png

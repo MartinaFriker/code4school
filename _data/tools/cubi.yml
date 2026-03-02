@@ -1,0 +1,19 @@
+
+category: online
+name: Cubi
+description: Programmieren mit Blöcken, Anleitungen integriert
+advantages: Geführtes Tutorial, aufbauend
+languages:
+  - visuell/Blöcke
+ages:
+  - 2. Zyklus
+  - 3. Zyklus
+link:
+  url: https://it-for-kids.org/cubi/
+  desc: it-for-kids.org/cubi
+materials:
+  - url: 
+    desc: 
+
+
+image_name: cubi.gif
